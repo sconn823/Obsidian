@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "ab87c47d75b7e54a",
+    "type": "split",
+    "children": [
+      {
+        "id": "be1ba2fecf07eee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140ff45bec1b86e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/VietGnome (city).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55a7eaf202d4749d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/VietGnome (city).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f8affa76349a22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plots/Tyto's Matron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02b87cd9c448c048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plots/Duregarian Dominion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33f60564fbf6e93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/VietGnome (city).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "363e7e493d4c69e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Banking Branch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0974dea8a1b5c605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Dwarf-Gnome war.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21f3696e9e138716",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ff4087c073bd9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463cc033b1bb39ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12e2720f32c11990",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3986e92d1dc18140",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef5039eb0cdf1733",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd937baa9f5e6514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d94c77a76ea779",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Banking Branch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a62ba85804e72f11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Banking Branch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc2a516c2f6bd92c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee95b99c4394b22a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Banking Branch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "363e7e493d4c69e2",
+  "lastOpenFiles": [
+    "main",
+    "Locations/VietGnome (city).md",
+    "Locations/Banking Branch.md",
+    "Locations/The Branch Junction.md",
+    "Locations/The Stump.md",
+    "Events/Dwarf-Gnome war.md",
+    "Plots/Tyto's Matron.md",
+    "Plots/Duregarian Dominion.md",
+    "Plots/Dwarven Mountain States.md",
+    "Plots",
+    "Events",
+    "Locations/Vietgnome (forest).md",
+    "PCs",
+    "Groups",
+    "People",
+    "Locations"
+  ]
+}
