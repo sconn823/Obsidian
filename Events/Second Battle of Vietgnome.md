@@ -1,0 +1,1 @@
+After the disastarous [[First Battle of Vietgnome]] came a decade-long and begrudging feud between the Gnomes and Dwarves.
