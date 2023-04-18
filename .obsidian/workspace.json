@@ -4,95 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "be1ba2fecf07eee4",
+        "id": "ca1d617360c6ba36",
         "type": "tabs",
         "children": [
           {
-            "id": "140ff45bec1b86e8",
+            "id": "bdafb7527e35037e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/VietGnome (city).md",
+                "file": "Locations/Fort Dogwood.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55a7eaf202d4749d",
+            "id": "9cba2a643ae4d099",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/VietGnome (city).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "9f8affa76349a22f",
+            "id": "9f849112ab05657c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots/Tyto's Matron.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "02b87cd9c448c048",
+            "id": "b255f2079685494e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots/Duregarian Dominion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33f60564fbf6e93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/VietGnome (city).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "363e7e493d4c69e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Banking Branch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0974dea8a1b5c605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Dwarf-Gnome war.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dôbar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Banking Branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Banking Branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Banking Branch.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -219,23 +167,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363e7e493d4c69e2",
+  "active": "b255f2079685494e",
   "lastOpenFiles": [
+    "People/PCs/Tyto.md",
+    "People/PCs",
+    "People/Boudicca.md",
+    "People/Queen Regent Krixi Fappletop.md",
+    "People/Higher-Beings/Tyto's Matron.md",
+    "People/Higher-Beings",
+    "People/Higher-Beings/Talos.md",
+    "People/Commander Fredrik Dark-Hammer.md",
+    "Groups/Amethyst.md",
+    "Objects/Tech/Chain Sword.md",
+    "Locations/Grand Hall.md",
+    "Locations/Collapsed Kingdoms.md",
+    "Locations/Rhodania.md",
+    "Locations/Port Jaheel.md",
+    "Locations/Fort Dogwood.md",
+    "People/Quincy Endrcot.md",
+    "Groups/Marked Men.md",
+    "Objects/Blade of Dogwood.md",
+    "Objects/Tech Items.md",
+    "Objects/Tech/Arcane Accumulator.md",
+    "Objects/Aquanaut.md",
+    "Objects/Bipedal Exploratory Armored Chassis Operational Nacelle.md",
+    "Objects/Tech",
+    "Objects/Nautilus.md",
+    "Locations/Vietgnome (forest).md",
+    "Missions/Entrance.md",
+    "Locations/Ymir.md",
+    "Objects",
+    "People/Rurik Eversharp.md",
+    "Locations/Abhainn River.md",
+    "Missions",
+    "Untitled.canvas",
     "main",
-    "Locations/VietGnome (city).md",
-    "Locations/Banking Branch.md",
-    "Locations/The Branch Junction.md",
-    "Locations/The Stump.md",
-    "Events/Dwarf-Gnome war.md",
-    "Plots/Tyto's Matron.md",
-    "Plots/Duregarian Dominion.md",
-    "Plots/Dwarven Mountain States.md",
     "Plots",
     "Events",
-    "Locations/Vietgnome (forest).md",
     "PCs",
-    "Groups",
-    "People",
-    "Locations"
+    "Groups"
   ]
 }
