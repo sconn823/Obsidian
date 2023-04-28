@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "be1ba2fecf07eee4",
+        "id": "a4fba31a737239a1",
         "type": "tabs",
         "children": [
           {
-            "id": "140ff45bec1b86e8",
+            "id": "76629ca2731568c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plots/Plot - Duregarian Dominion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dd147bc616803a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Dwarven Mountain States.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a12e0d11f7a203f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,79 +44,18 @@
             }
           },
           {
-            "id": "55a7eaf202d4749d",
+            "id": "dcc2f4b3ab4c8ff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/VietGnome (city).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f8affa76349a22f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots/Tyto's Matron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02b87cd9c448c048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots/Duregarian Dominion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33f60564fbf6e93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/VietGnome (city).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "363e7e493d4c69e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Banking Branch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0974dea8a1b5c605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Dwarf-Gnome war.md",
+                "file": "People/Oakroot.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[[Plot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Banking Branch.md",
+                "file": "Plots/Plot - Duregarian Dominion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Banking Branch.md",
+                "file": "Plots/Plot - Duregarian Dominion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Banking Branch.md"
+                "file": "Plots/Plot - Duregarian Dominion.md"
               }
             }
           }
@@ -219,23 +182,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363e7e493d4c69e2",
+  "active": "76629ca2731568c6",
   "lastOpenFiles": [
-    "main",
+    "Groups/Arboral Council.md",
+    "Plots/Plot - Main Over-View.md",
+    "Groups/Dwarven Mountain States.md",
     "Locations/VietGnome (city).md",
+    "People/Oakroot.md",
+    "Objects/Tech/Arcane Accumulator.md",
+    "Objects/Tech/Untitled.md",
+    "Objects/Tech/Scanner.md",
+    "Objects/Tech/Blink-Backpack.md",
+    "Objects/Tech/Stealth-Boy.md",
+    "Objects/Tech/Shield Bracelet.md",
+    "Objects/Tech/Rail Gun.md",
+    "Objects/Tech/Jet Pack.md",
+    "Objects/Tech/Chain Sword.md",
+    "Objects/Tech/Enemy-movement weapon.md",
+    "People/PCs/Jan's Character.md",
+    "Objects/Tech Items.md",
+    "Missions/Entrance.md",
+    "People/Commander Fredrik Dark-Hammer.md",
+    "Events/First Battle of Vietgnome.md",
+    "Plots/Plot - Dwarven Mountain States.md",
+    "Locations/Dôbar.md",
+    "Plots/Plot - Duregarian Dominion.md",
+    "Locations/Fort Dogwood.md",
     "Locations/Banking Branch.md",
-    "Locations/The Branch Junction.md",
-    "Locations/The Stump.md",
-    "Events/Dwarf-Gnome war.md",
-    "Plots/Tyto's Matron.md",
-    "Plots/Duregarian Dominion.md",
-    "Plots/Dwarven Mountain States.md",
+    "Locations/Dwarven Tunnel Intersection.md",
+    "People/PCs",
+    "People/Higher-Beings",
+    "Objects/Tech",
+    "Objects",
+    "Missions",
+    "Untitled.canvas",
+    "main",
     "Plots",
     "Events",
-    "Locations/Vietgnome (forest).md",
     "PCs",
-    "Groups",
-    "People",
-    "Locations"
+    "Groups"
   ]
 }

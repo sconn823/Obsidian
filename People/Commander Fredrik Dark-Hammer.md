@@ -1,0 +1,1 @@
+Leader of the [[Dwarven Mountain States]] forces during the [[First Battle of Vietgnome]]

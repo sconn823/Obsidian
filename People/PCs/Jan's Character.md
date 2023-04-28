@@ -1,0 +1,1 @@
+Probably has visited [[VietGnome (city)]] before 

@@ -1,0 +1,1 @@
+Gnomish druid of the circle of fire. Leader of the rebellion and the gnomish forces during the [[Second Battle of Vietgnome]]
