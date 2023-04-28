@@ -17,3 +17,15 @@ Features
 Druidic magic allows the tree to be constantly rotating its branches, maximizing the distrubtion of sun time between all districts
 The trunk of the tree is 2 miles in diameter, which small homes carved into the first few layers of the bark, never going further back then a hundred feet into the carving
 A winding 
+
+Vietgnome is host to a diverse population. Mostly they have in common their love of forests and worship of nature.
+
+Types of creates un the city:
+-Gnomes
+-WoodElves
+-Lizardfolk
+-Dryads
+-Pixies
+-Tortles
+-Treant
+-

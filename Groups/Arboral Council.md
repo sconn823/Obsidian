@@ -5,5 +5,6 @@
 | [[Boudicca]]   | Powerful Arch Druid of Fire        | Green|
 | [[Quincy Endrcot]]     | Business-Gnome and Banker       | Silver |
 | [[Queen Regent Krixi Fappletop]]     | Famed Gnomeball player       | Silver |
-|     | Famed Gnomeball player       | Amethysts |
+|   [[Oakroot]]  | Ancient Treant       | Silver |
+| [[Valvalur]]  | Pixie      | Amethyst |
 

@@ -4,47 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "ca1d617360c6ba36",
+        "id": "a4fba31a737239a1",
         "type": "tabs",
         "children": [
           {
-            "id": "bdafb7527e35037e",
+            "id": "76629ca2731568c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Fort Dogwood.md",
+                "file": "Plots/Plot - Duregarian Dominion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9cba2a643ae4d099",
+            "id": "2dd147bc616803a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Dwarven Mountain States.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "9f849112ab05657c",
+            "id": "3a12e0d11f7a203f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/VietGnome (city).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "b255f2079685494e",
+            "id": "dcc2f4b3ab4c8ff5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Oakroot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dôbar",
+                "query": "[[Plot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plots/Plot - Duregarian Dominion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plots/Plot - Duregarian Dominion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plots/Plot - Duregarian Dominion.md"
+              }
             }
           }
         ]
@@ -167,38 +182,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b255f2079685494e",
+  "active": "76629ca2731568c6",
   "lastOpenFiles": [
-    "People/PCs/Tyto.md",
-    "People/PCs",
-    "People/Boudicca.md",
-    "People/Queen Regent Krixi Fappletop.md",
-    "People/Higher-Beings/Tyto's Matron.md",
-    "People/Higher-Beings",
-    "People/Higher-Beings/Talos.md",
-    "People/Commander Fredrik Dark-Hammer.md",
-    "Groups/Amethyst.md",
-    "Objects/Tech/Chain Sword.md",
-    "Locations/Grand Hall.md",
-    "Locations/Collapsed Kingdoms.md",
-    "Locations/Rhodania.md",
-    "Locations/Port Jaheel.md",
-    "Locations/Fort Dogwood.md",
-    "People/Quincy Endrcot.md",
-    "Groups/Marked Men.md",
-    "Objects/Blade of Dogwood.md",
-    "Objects/Tech Items.md",
+    "Groups/Arboral Council.md",
+    "Plots/Plot - Main Over-View.md",
+    "Groups/Dwarven Mountain States.md",
+    "Locations/VietGnome (city).md",
+    "People/Oakroot.md",
     "Objects/Tech/Arcane Accumulator.md",
-    "Objects/Aquanaut.md",
-    "Objects/Bipedal Exploratory Armored Chassis Operational Nacelle.md",
-    "Objects/Tech",
-    "Objects/Nautilus.md",
-    "Locations/Vietgnome (forest).md",
+    "Objects/Tech/Untitled.md",
+    "Objects/Tech/Scanner.md",
+    "Objects/Tech/Blink-Backpack.md",
+    "Objects/Tech/Stealth-Boy.md",
+    "Objects/Tech/Shield Bracelet.md",
+    "Objects/Tech/Rail Gun.md",
+    "Objects/Tech/Jet Pack.md",
+    "Objects/Tech/Chain Sword.md",
+    "Objects/Tech/Enemy-movement weapon.md",
+    "People/PCs/Jan's Character.md",
+    "Objects/Tech Items.md",
     "Missions/Entrance.md",
-    "Locations/Ymir.md",
+    "People/Commander Fredrik Dark-Hammer.md",
+    "Events/First Battle of Vietgnome.md",
+    "Plots/Plot - Dwarven Mountain States.md",
+    "Locations/Dôbar.md",
+    "Plots/Plot - Duregarian Dominion.md",
+    "Locations/Fort Dogwood.md",
+    "Locations/Banking Branch.md",
+    "Locations/Dwarven Tunnel Intersection.md",
+    "People/PCs",
+    "People/Higher-Beings",
+    "Objects/Tech",
     "Objects",
-    "People/Rurik Eversharp.md",
-    "Locations/Abhainn River.md",
     "Missions",
     "Untitled.canvas",
     "main",
