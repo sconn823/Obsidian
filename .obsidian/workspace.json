@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King Lofiz Berryguard.md",
+                "file": "People/Queen Regent Krixi Berryguard.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "King Lofiz Berryguard.md",
+                "file": "People/Queen Regent Krixi Berryguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "King Lofiz Berryguard.md",
+                "file": "People/Queen Regent Krixi Berryguard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "King Lofiz Berryguard.md"
+                "file": "People/Queen Regent Krixi Berryguard.md"
               }
             }
           }
@@ -176,12 +175,12 @@
   },
   "active": "ad861ac6bc5cf543",
   "lastOpenFiles": [
+    "People/King Lofiz Berryguard.md",
     "Missions/Day 1.md",
     "People/Rurik Eversharp.md",
-    "Prince Orfan Berryguard.md",
-    "King Lofiz Berryguard.md",
+    "People/Prince Orfan Berryguard.md",
     "People/Queen Regent Krixi Berryguard.md",
-    "King Randy Berryguard II.md",
+    "People/King Randy Berryguard II.md",
     "Locations/Sections of Vietgnome/Roots.md",
     "Missions/Summary.md",
     "St. Rose.md",
