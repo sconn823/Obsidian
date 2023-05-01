@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prince Orfan Berryguard.md",
+                "file": "King Lofiz Berryguard.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fappletop",
+                "query": "berry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Missions/Day 1.md",
+                "file": "King Lofiz Berryguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Missions/Day 1.md",
+                "file": "King Lofiz Berryguard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Missions/Day 1.md"
+                "file": "King Lofiz Berryguard.md"
               }
             }
           }
@@ -173,13 +174,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6db3385d927705d6",
+  "active": "ad861ac6bc5cf543",
   "lastOpenFiles": [
+    "Missions/Day 1.md",
+    "People/Rurik Eversharp.md",
     "Prince Orfan Berryguard.md",
     "King Lofiz Berryguard.md",
     "People/Queen Regent Krixi Berryguard.md",
     "King Randy Berryguard II.md",
-    "Missions/Day 1.md",
     "Locations/Sections of Vietgnome/Roots.md",
     "Missions/Summary.md",
     "St. Rose.md",
@@ -206,7 +208,6 @@
     "People/PCs/Gerhardt.md",
     "People/PCs/Jor.md",
     "Groups/Scarlet Mummors.md",
-    "People/Higher-Beings/Talos.md",
     "People/PCs",
     "People/Higher-Beings",
     "Objects/Tech",
