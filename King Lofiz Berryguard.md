@@ -1,0 +1,3 @@
+Recently deceased king of [[VietGnome (city)]] and leader of the [[Arboral Council]]. 
+
+The Fappletops have been ruling since Vietgnome was founded several hundred years ago. Lofiz, specifically, had been ruling for the past 10 years since his father, [[King Randy Berryguard II]] stepped down following the [[First Battle of Vietgnome]]. In that time, Lofiz has built strong ties with both the [[Dwarven Mountain States]] and the new rising star, the [[Duregar Dominion]]. In addition, he married his childhood sweetheart and cousin [[Queen Regent Krixi Berryguard]], and had a (supposed) child [[Prince Orfan Berryguard]], named
