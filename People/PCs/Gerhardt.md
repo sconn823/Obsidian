@@ -1,0 +1,1 @@
+the [[Duregar Dominion]] will threaten Gehardt early that if they lose ground in the conflict with [[Dwarven Mountain States]], they will 

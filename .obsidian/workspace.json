@@ -8,54 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76629ca2731568c6",
+            "id": "6db3385d927705d6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Missions/Entrance.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fb3be5a0deca15cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/Plot - Duregarian Dominion.md",
+                "file": "Monsters/Horde of Unicorns.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2dd147bc616803a5",
+            "id": "040dcf14a5304b38",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Dwarven Mountain States.md",
+                "file": "Locations/Sections of Vietgnome/Roots.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "3a12e0d11f7a203f",
+            "id": "a8ca24e19ba4cc35",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/VietGnome (city).md",
+                "file": "Locations/Sections of Vietgnome/Banking Branch.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "dcc2f4b3ab4c8ff5",
+            "id": "4fa2f440137d6315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Oakroot.md",
+                "file": "Lead balloon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[Plot",
+                "query": "roots",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots/Plot - Duregarian Dominion.md",
+                "file": "Monsters/Horde of Unicorns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots/Plot - Duregarian Dominion.md",
+                "file": "Monsters/Horde of Unicorns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots/Plot - Duregarian Dominion.md"
+                "file": "Monsters/Horde of Unicorns.md"
               }
             }
           }
@@ -182,44 +201,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76629ca2731568c6",
+  "active": "fb3be5a0deca15cc",
   "lastOpenFiles": [
-    "Groups/Arboral Council.md",
-    "Plots/Plot - Main Over-View.md",
-    "Groups/Dwarven Mountain States.md",
-    "Locations/VietGnome (city).md",
-    "People/Oakroot.md",
-    "Objects/Tech/Arcane Accumulator.md",
-    "Objects/Tech/Untitled.md",
-    "Objects/Tech/Scanner.md",
-    "Objects/Tech/Blink-Backpack.md",
-    "Objects/Tech/Stealth-Boy.md",
-    "Objects/Tech/Shield Bracelet.md",
-    "Objects/Tech/Rail Gun.md",
-    "Objects/Tech/Jet Pack.md",
-    "Objects/Tech/Chain Sword.md",
-    "Objects/Tech/Enemy-movement weapon.md",
-    "People/PCs/Jan's Character.md",
-    "Objects/Tech Items.md",
+    "Missions/Order of Events.md",
     "Missions/Entrance.md",
-    "People/Commander Fredrik Dark-Hammer.md",
-    "Events/First Battle of Vietgnome.md",
-    "Plots/Plot - Dwarven Mountain States.md",
-    "Locations/Dôbar.md",
-    "Plots/Plot - Duregarian Dominion.md",
-    "Locations/Fort Dogwood.md",
-    "Locations/Banking Branch.md",
-    "Locations/Dwarven Tunnel Intersection.md",
+    "Lead balloon.md",
+    "Locations/Sections of Vietgnome/Banking Branch.md",
+    "Locations/Sections of Vietgnome/Roots.md",
+    "People/Silvester the Silver.md",
+    "Locations/Shops/Rusted Root.md",
+    "Locations/Nature/Vietgnome (forest).md",
+    "Locations/Nature",
+    "Locations/Untitled.md",
+    "Locations/Planarverse",
+    "Locations/Sections of Vietgnome/Grand Hall.md",
+    "Groups/Arboral Council.md",
+    "Locations/Larger World",
+    "Locations/Sections of Vietgnome",
+    "Locations/Shops",
+    "Monsters/Horde of Unicorns.md",
+    "Untitled.md",
+    "Monsters",
+    "People/PCs/Gerhardt.md",
+    "People/PCs/Jor.md",
+    "People/Queen Regent Krixi Fappletop.md",
+    "Groups/Scarlet Mummors.md",
+    "People/Higher-Beings/Talos.md",
+    "Missions/Investigating Durgerarian Incursion.md",
+    "People/PCs/Tyto.md",
+    "People/Corvos.md",
+    "Locations/Larger World/Collapsed Kingdoms.md",
+    "Locations/Larger World/Duchy of Damoclian.md",
+    "People/Higher-Beings/Tyto's Matron.md",
+    "Objects/Aquanaut.md",
+    "People/Boudicca.md",
     "People/PCs",
     "People/Higher-Beings",
     "Objects/Tech",
     "Objects",
-    "Missions",
-    "Untitled.canvas",
-    "main",
-    "Plots",
-    "Events",
-    "PCs",
-    "Groups"
+    "Untitled.canvas"
   ]
 }
