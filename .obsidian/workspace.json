@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "fb3be5a0deca15cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters/Horde of Unicorns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "040dcf14a5304b38",
             "type": "leaf",
             "pinned": true,
@@ -67,14 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lead balloon.md",
+                "file": "Locations/Sections of Vietgnome/Lead balloon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monsters/Horde of Unicorns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monsters/Horde of Unicorns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Monsters/Horde of Unicorns.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -201,13 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb3be5a0deca15cc",
+  "active": "463cc033b1bb39ed",
   "lastOpenFiles": [
-    "Missions/Order of Events.md",
-    "Missions/Entrance.md",
-    "Lead balloon.md",
+    "People/Johnny Two-Wands.md",
+    "Locations/Sections of Vietgnome/Dwarven University of Metalurgy & Balistics(D.U.M.B).md",
     "Locations/Sections of Vietgnome/Banking Branch.md",
+    "Dwarven Research Facility.md",
+    "Missions/Entrance.md",
     "Locations/Sections of Vietgnome/Roots.md",
+    "Monsters/Horde of Unicorns.md",
+    "Missions/Order of Events.md",
+    "Locations/Sections of Vietgnome/Lead balloon.md",
     "People/Silvester the Silver.md",
     "Locations/Shops/Rusted Root.md",
     "Locations/Nature/Vietgnome (forest).md",
@@ -219,7 +206,6 @@
     "Locations/Larger World",
     "Locations/Sections of Vietgnome",
     "Locations/Shops",
-    "Monsters/Horde of Unicorns.md",
     "Untitled.md",
     "Monsters",
     "People/PCs/Gerhardt.md",
@@ -232,9 +218,6 @@
     "People/Corvos.md",
     "Locations/Larger World/Collapsed Kingdoms.md",
     "Locations/Larger World/Duchy of Damoclian.md",
-    "People/Higher-Beings/Tyto's Matron.md",
-    "Objects/Aquanaut.md",
-    "People/Boudicca.md",
     "People/PCs",
     "People/Higher-Beings",
     "Objects/Tech",
