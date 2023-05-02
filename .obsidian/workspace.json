@@ -27,7 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Queen Regent Krixi Berryguard.md",
+                "file": "Plots/Plot - Duregarian Dominion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccec0b9fb80896c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Duregar Influence/Research Facility.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Queen Regent Krixi Berryguard.md",
+                "file": "Locations/Duregar Influence/Research Facility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Queen Regent Krixi Berryguard.md",
+                "file": "Locations/Duregar Influence/Research Facility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Queen Regent Krixi Berryguard.md"
+                "file": "Locations/Duregar Influence/Research Facility.md"
               }
             }
           }
@@ -173,18 +185,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad861ac6bc5cf543",
+  "active": "463cc033b1bb39ed",
   "lastOpenFiles": [
+    "Locations/Duregar Influence",
+    "Plots/Plot - Duregarian Dominion.md",
+    "Locations/Duregar Influence/Research Facility.md",
+    "People/Queen Regent Krixi Berryguard.md",
     "People/King Lofiz Berryguard.md",
     "Missions/Day 1.md",
     "People/Rurik Eversharp.md",
     "People/Prince Orfan Berryguard.md",
-    "People/Queen Regent Krixi Berryguard.md",
     "People/King Randy Berryguard II.md",
     "Locations/Sections of Vietgnome/Roots.md",
     "Missions/Summary.md",
     "St. Rose.md",
-    "Locations/Excavation Site.md",
+    "Locations/Duregar Influence/Excavation Site.md",
     "Untitled.md",
     "People/Johnny Two-Wands.md",
     "Locations/Sections of Vietgnome/Dwarven University of Metalurgy & Balistics(D.U.M.B).md",
@@ -204,9 +219,6 @@
     "Locations/Sections of Vietgnome",
     "Locations/Shops",
     "Monsters",
-    "People/PCs/Gerhardt.md",
-    "People/PCs/Jor.md",
-    "Groups/Scarlet Mummors.md",
     "People/PCs",
     "People/Higher-Beings",
     "Objects/Tech",
