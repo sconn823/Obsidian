@@ -46,6 +46,30 @@
             }
           },
           {
+            "id": "ee0d7752d5448a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Sections of Vietgnome/Royal Aparmtnet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f038383b33ce03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a28721df52a87d52",
             "type": "leaf",
             "state": {
@@ -58,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Duregar Influence/Research Facility.md",
+                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Duregar Influence/Research Facility.md",
+                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Duregar Influence/Research Facility.md"
+                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md"
               }
             }
           }
@@ -185,11 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "463cc033b1bb39ed",
+  "active": "63f038383b33ce03",
   "lastOpenFiles": [
+    "Locations/Sections of Vietgnome/Royal Aparmtnet.md",
+    "People/Higher-Beings/VietGnome (Tree Spirit).md",
+    "Locations/Duregar Influence/Research Facility.md",
     "Locations/Duregar Influence",
     "Plots/Plot - Duregarian Dominion.md",
-    "Locations/Duregar Influence/Research Facility.md",
     "People/Queen Regent Krixi Berryguard.md",
     "People/King Lofiz Berryguard.md",
     "Missions/Day 1.md",
@@ -214,7 +240,6 @@
     "Locations/Untitled.md",
     "Locations/Planarverse",
     "Locations/Sections of Vietgnome/Grand Hall.md",
-    "Groups/Arboral Council.md",
     "Locations/Larger World",
     "Locations/Sections of Vietgnome",
     "Locations/Shops",
@@ -222,7 +247,6 @@
     "People/PCs",
     "People/Higher-Beings",
     "Objects/Tech",
-    "Objects",
     "Untitled.canvas"
   ]
 }

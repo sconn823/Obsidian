@@ -1,0 +1,1 @@
+Duregars are working here to create smaller flesh and metal contructs which may become inhabited by Talos.
