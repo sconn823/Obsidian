@@ -1,0 +1,1 @@
+Political factions within the [[Arboral Council]] who wish for an independent [[VietGnome (city)]]
