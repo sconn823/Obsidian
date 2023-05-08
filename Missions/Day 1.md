@@ -1,5 +1,3 @@
-## Transporation within the [[D.M.S. Lead Balloon]]
-
 
 ### Reminding of past event
 Battle in Hell in Helanthius,
@@ -20,6 +18,12 @@ However, your journey is nearly at an end as [[Rurik Eversharp]] has welcomed yo
 
 Ask the party how they are feeling.
 
+### Briefing
+Tensions have been high with the [[Duregar Dominion]] ever since they began expanding outwards from [[Khonudrakar]] far to the east. Now, they have arrived in [[Vietgnome (forest)]] with ill intent on the wind.
+
+The [[Dwarven Mountain States]] are anxious that the [[Duregar Dominion]] intend to take the city, and then use it to capture [[Dwarven Tunnel Intersection]] below, cutting off [[Obar]] and [[Dobar]] from the rest of the states.
+
+The [[Arboral Council]] is currently divided into factions.
 
 
 ### Arrival in [[VietGnome (city)]]
@@ -37,3 +41,21 @@ Players will learn via a council meeting the [[Duregarian Dominion]] has advance
 
 Once the council concludes, the players will have until nightfall to gather their gear and depart.
 From here the groups are welcome to visit the shops in the [[Roots]], or on the [[Banking Branch]]
+
+
+### Withdrawl Day parade
+
+### The Council Meeting
+
+### Down time before heading out
+
+### Heading out/ navigating [[Vietgnome (forest)]]
+
+#### Should the players choose to attempt to cross [[Abhainn River]]
+
+#### [[Horde of Unicorns]]
+
+### Arriving at the [[Excavation Site]]
+
+### Exploring the [[Aquanaut]]
+

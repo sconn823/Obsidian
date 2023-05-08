@@ -1,1 +1,0 @@
-Dwarven fortress far to the east of the 

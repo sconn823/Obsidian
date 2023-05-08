@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "ff8d4f896c385626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Sections of Vietgnome/Banking Branch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0c3316b02bd2262b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Rurik Eversharp.md",
+                "file": "Locations/Larger World/Obar.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,8 +194,11 @@
   },
   "active": "6db3385d927705d6",
   "lastOpenFiles": [
-    "Locations/Sections of Vietgnome/Banking Branch.md",
+    "Locations/Larger World/Obar.md",
+    "Locations/Larger World/Dobar.md",
     "Missions/Day 1.md",
+    "expanding.md",
+    "Locations/Sections of Vietgnome/Banking Branch.md",
     "People/Rurik Eversharp.md",
     "Captain's Name.md",
     "People/Quincy Endrcot.md",
@@ -230,9 +221,6 @@
     "People/Johnny Two-Wands.md",
     "Locations/Sections of Vietgnome/Dwarven University of Metalurgy & Balistics(D.U.M.B).md",
     "Dwarven Research Facility.md",
-    "Monsters/Horde of Unicorns.md",
-    "Locations/Sections of Vietgnome/Lead balloon.md",
-    "People/Silvester the Silver.md",
     "Locations/Nature",
     "Locations/Planarverse",
     "Locations/Larger World",
