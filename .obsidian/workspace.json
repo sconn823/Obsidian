@@ -22,48 +22,36 @@
             }
           },
           {
-            "id": "ad861ac6bc5cf543",
+            "id": "ff8d4f896c385626",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/Plot - Duregarian Dominion.md",
+                "file": "Locations/Sections of Vietgnome/Banking Branch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ccec0b9fb80896c0",
+            "id": "0c3316b02bd2262b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Duregar Influence/Research Facility.md",
+                "file": "People/Rurik Eversharp.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee0d7752d5448a93",
+            "id": "506e1ba4eb2401d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sections of Vietgnome/Royal Aparmtnet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63f038383b33ce03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
+                "file": "Captain's Name.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,6 +114,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "21b8ad85e603ab2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
+                "file": "Missions/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
+                "file": "Missions/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md"
+                "file": "Missions/Day 1.md"
               }
             }
           }
@@ -209,37 +204,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63f038383b33ce03",
+  "active": "6db3385d927705d6",
   "lastOpenFiles": [
-    "Locations/Sections of Vietgnome/Royal Aparmtnet.md",
-    "People/Higher-Beings/VietGnome (Tree Spirit).md",
-    "Locations/Duregar Influence/Research Facility.md",
-    "Locations/Duregar Influence",
-    "Plots/Plot - Duregarian Dominion.md",
-    "People/Queen Regent Krixi Berryguard.md",
-    "People/King Lofiz Berryguard.md",
+    "Locations/Sections of Vietgnome/Banking Branch.md",
     "Missions/Day 1.md",
     "People/Rurik Eversharp.md",
+    "Captain's Name.md",
+    "People/Quincy Endrcot.md",
+    "People/Commander Fredrik Dark-Hammer.md",
+    "Led Balloon.md",
+    "People/Queen Regent Krixi Berryguard.md",
+    "People/Higher-Beings/VietGnome (Tree Spirit).md",
+    "Locations/Sections of Vietgnome/Royal Aparmtnet.md",
+    "Locations/Duregar Influence/Research Facility.md",
+    "Locations/Duregar Influence/Excavation Site.md",
+    "Locations/Duregar Influence",
+    "People/King Lofiz Berryguard.md",
     "People/Prince Orfan Berryguard.md",
     "People/King Randy Berryguard II.md",
     "Locations/Sections of Vietgnome/Roots.md",
     "Missions/Summary.md",
     "St. Rose.md",
-    "Locations/Duregar Influence/Excavation Site.md",
+    "Locations/Excavation Site.md",
     "Untitled.md",
     "People/Johnny Two-Wands.md",
     "Locations/Sections of Vietgnome/Dwarven University of Metalurgy & Balistics(D.U.M.B).md",
-    "Locations/Sections of Vietgnome/Banking Branch.md",
     "Dwarven Research Facility.md",
     "Monsters/Horde of Unicorns.md",
     "Locations/Sections of Vietgnome/Lead balloon.md",
     "People/Silvester the Silver.md",
-    "Locations/Shops/Rusted Root.md",
-    "Locations/Nature/Vietgnome (forest).md",
     "Locations/Nature",
-    "Locations/Untitled.md",
     "Locations/Planarverse",
-    "Locations/Sections of Vietgnome/Grand Hall.md",
     "Locations/Larger World",
     "Locations/Sections of Vietgnome",
     "Locations/Shops",

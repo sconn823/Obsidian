@@ -4,6 +4,9 @@ Contains air docks for Dwarven Airships.
 
 First place when party arrives.
 
+## Description
+This massive branch of [[VietGnome (city)]] spans roughly one mile long and 
+
 ## Significant Locations
 
 | Name      | Description | 
