@@ -17,8 +17,10 @@ Ultimately the Dureregar are attempting to use an ancient beacon sewn directly i
 -Return and report 
 
 ## Day 3
+[[Jor]] is approached by the [[Scarlet Mummors]] about freeing one of their members held captive by the [[Duregar Dominion]]
 
 ## Day 4
+-Gnomeball Tournament
 -[[Amethyst]]s attempted vote in [[Arboral Council]] to become a part of the [[Duregar Dominion]]
 
 ## Day 5

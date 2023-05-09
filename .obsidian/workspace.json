@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/Plot - Duregarian Dominion.md",
+                "file": "Missions/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,13 +60,15 @@
           {
             "id": "63f038383b33ce03",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
+                "file": "Missions/Climax.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -82,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,6 +129,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e158700a611ed414",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
+                "file": "Missions/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md",
+                "file": "Missions/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Higher-Beings/VietGnome (Tree Spirit).md"
+                "file": "Missions/Summary.md"
               }
             }
           }
@@ -209,10 +219,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63f038383b33ce03",
+  "active": "ad861ac6bc5cf543",
   "lastOpenFiles": [
-    "Locations/Sections of Vietgnome/Royal Aparmtnet.md",
+    "Missions/Climax.md",
+    "Locations/Sections of Vietgnome/Dwarven Tunnel Intersection.md",
+    "Missions/Summary.md",
     "People/Higher-Beings/VietGnome (Tree Spirit).md",
+    "Locations/Sections of Vietgnome/Royal Aparmtnet.md",
     "Locations/Duregar Influence/Research Facility.md",
     "Locations/Duregar Influence",
     "Plots/Plot - Duregarian Dominion.md",
@@ -223,7 +236,6 @@
     "People/Prince Orfan Berryguard.md",
     "People/King Randy Berryguard II.md",
     "Locations/Sections of Vietgnome/Roots.md",
-    "Missions/Summary.md",
     "St. Rose.md",
     "Locations/Duregar Influence/Excavation Site.md",
     "Untitled.md",
@@ -237,9 +249,7 @@
     "Locations/Shops/Rusted Root.md",
     "Locations/Nature/Vietgnome (forest).md",
     "Locations/Nature",
-    "Locations/Untitled.md",
     "Locations/Planarverse",
-    "Locations/Sections of Vietgnome/Grand Hall.md",
     "Locations/Larger World",
     "Locations/Sections of Vietgnome",
     "Locations/Shops",
