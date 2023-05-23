@@ -39,5 +39,18 @@ Pillars room.
 Moving past any of the debris of pillar have a small change of collasping it on those around. Each time a player walks by an unstable pillar, roll a d20. On a 1, all players within a 10 ft radius must make a DC 12 dex saving throw, or take 2d6 + 2 damage.
 
 ### 4
+*A rusted out room. Metal particles flitter around the room. Green lights glow constantly at the east and west doorways, where red lights are present at the two south rooms.*
+
+Each of the south rooms require a DC 13 
 #### 4a
 Trap - the whethered remains of a dwarven pilot lays there, a [[Plasma Pistol]] had been used to blow his brains out. 3d4 Cadevar Sprits spring forward from the corpse as the players open the door.
+
+### 5
+*Debris litter the room. Upon close inspection, the damage appears to be recent. Crushed limbs pertrude from the mishapen rock piles.*
+
+5 duergar screamers hide in the area here. They wait until one of the party members triggers the trap in room 6 to engage. They can be seen lurking in the dark with a DC 15 perception check
+
+### 6
+*A long rusting hallway. A large door bars the other side and appears be firmly in place.*
+
+In this hallway is a  tight squeeze trap. Any PCs walking through the middle of it must make a DC 18 strength check 
