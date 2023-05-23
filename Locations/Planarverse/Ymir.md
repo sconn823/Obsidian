@@ -1,3 +1,3 @@
 A plane of existance where dwarves emerged as teh dominant sentient life form, and controlled most land an resources. These dwarves were fully industrialized and had achieved feats seen little eslewhere in the mult-verse. Eventually, this industry gave way to rise of the sentient machine known as [[Talos]]
 
-The dwarves of Ymir, before their fall, were known to send out [[Bipedal Exploratory Armored Chassis Operational Nacelle]] to other planes of existance to review and prime them for possible colonziation. Many of these efforts were only in the exploratory phase when 
+The dwarves of Ymir, before their fall, were known to send out [[B.E.A.C.O.N.]] to other planes of existance to review and prime them for possible colonziation. Many of these efforts were only in the exploratory phase when 

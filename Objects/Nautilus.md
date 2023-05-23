@@ -1,1 +1,1 @@
-[[Bipedal Exploratory Armored Chassis Operational Nacelle]]
+[[B.E.A.C.O.N.]]
