@@ -15,13 +15,16 @@ Ultimately the Dureregar are attempting to use an ancient beacon sewn directly i
 
 ## Day 2
 -Return and report 
+-[[Attack on Airship]]
+-[[GnomeBall]] against [[Brad Tomy]]
 
 ## Day 3
-[[Jor]] is approached by the [[Scarlet Mummors]] about freeing one of their members held captive by the [[Duregar Dominion]]
+-[[Infilitrate Duergar Compound]]
 
 ## Day 4
--Gnomeball Tournament
+-[[Scarlet Mummors, Silent Runners]]
 -[[Amethyst]]s attempted vote in [[Arboral Council]] to become a part of the [[Duregar Dominion]]
 
 ## Day 5
 -[[Gnomish Indpedence Day]]
+-[[Climax]]

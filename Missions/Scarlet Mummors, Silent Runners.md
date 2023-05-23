@@ -1,0 +1,1 @@
+[[Scarlet Mummors]] ask [[Jor]] and co to free [[Imprisoned Assassin]] from [[Amethyst]]s
