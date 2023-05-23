@@ -21,7 +21,7 @@ Ask the party how they are feeling.
 ### Briefing
 Tensions have been high with the [[Duregar Dominion]] ever since they began expanding outwards from [[Khonudrakar]] far to the east. Now, they have arrived in [[Vietgnome (forest)]] with ill intent on the wind.
 
-The [[Dwarven Mountain States]] are anxious that the [[Duregar Dominion]] intend to take the city, and then use it to capture [[Dwarven Tunnel Intersection]] below, cutting off [[Obar]] and [[Dobar]] from the rest of the states.
+The [[Dwarven Mountain States]] are anxious that the [[Duregar Dominion]] intend to take the city, and then use it to capture [[Dwarven Tunnel Intersection 1]] below, cutting off [[Obar]] and [[Dobar]] from the rest of the states.
 
 The [[Arboral Council]] is currently divided into factions.
 
