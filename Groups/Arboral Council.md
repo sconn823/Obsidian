@@ -7,4 +7,5 @@
 | [[Queen Regent Krixi Berryguard]]     | Queen Regent       | [[Silver]] |
 |   [[Oakroot]]  | Ancient Treant       | [[Silver]] |
 | [[Valvalur]]  | Pixie      | [[Amethyst]] |
+| [[Tobin Rix]]  | Goblin      | [[Amethyst]] |
 

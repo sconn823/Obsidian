@@ -12,3 +12,7 @@ Long purple hair curled in a manner similar to Marie Annotneite, a style reminsc
 She is often seen wearing large pieces of jewerly and apparel of dwarven design.
 
 Will attempt to hit on [[Thror]] and [[Jor]]
+
+
+### Voice
+Gale from bob's burgers
