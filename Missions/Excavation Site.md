@@ -16,8 +16,8 @@ Within the mouth of the [[Aquanaut]] are the corpese of several Duergar soliders
 
 #### Engraving
 In the dwarvish, the engraving reads:
-*"Here lies the crew of the Aquanaut, perhaps the last of their kind from our home Ymir. We were doomed by metal before, and we were doomed by the woods here."*
-
+*"Here lies the crew of the Aquanaut, perhaps the last of their kind from our home Ymir. We were doomed by metal before, and we were doomed by the nature here."*
+- [ ] 
 Within the opening here is a series of supply crates. They contain mundane supplies and rations. 
 
 
@@ -77,9 +77,36 @@ This item is a [[Shield Bracelet]].
 *An empty, vacant room. The celing to the south and east have all caved in. Horrible amber insects crawl about the space, feasting on metal scraps on the floor and walls.*
 
 ### 10
-*Empty room. The metal of the hall creeks and wanes under your foot steps.*
+*Empty room. The metal of the hall creeks and wanes under your foot steps. There is a door to the north that looks securely fastened. There is a lever to the left of it.*
+
+The arm is stuck beneath heavy rock within the underground. The stone wall is five feet thick, and completely bars any passage through the arm. Should a player attempt to push through, they will be met with the full force of the weight of the hill atop them.
+
+Pulling the lever requires a DC 17 strength test, and will result in the entire room, and 
 
 ### 11
 *This room smells of smoke and chemicals. The floor is covered with a greasy brown substance*
 
 Three duergar are sitting in the covering at the far end of the room. When a creature enters room 11, they will throw down torches to set the oil a blaze. The fire will last for 1d4 - 1 turns. Any creature intially caught in the blast will have to make a DC 16 dex saving throw, or take 5d10 fire damage (half on a saving throw)
+
+### 12
+*A recently husked corpse lies on the ground, hollow eyes starring into you. There runes on the fallen's jumpsuit reads "Thignil Plateriver". You feel a chill in the air.*
+[[Thignil Plateriver]] was the [[Aquanaut]]'s Chief of arcane energy. As the crew attempted to survive in the harshness of their new world, he was determined to reactivate the ship's [[Arcane Beacon]] and escape. 
+The ghost of the engineer has little memory and little time to talk to the adventurers as they head out in an attempt ot 
+
+### 13
+- [ ] It appears that the lever wrenched across the cavas above has created some significant damage to the lower body of the 
+
+### 16 
+Following the events from last Thror's day game (7/13/23)
+
+In room 2, the group finds an open an open grate, concealed by a piece of sheet metal they had previoulsy passed behind. lingering within the hole is a stray feather. Holding it up to the minimal light in the room reveals iridescent hughes of green, blue and purple. It has an oily sheen about it. 
+
+On a 16 perception check, the players can also find claw marks at the bottom. The edges are blurred within the wet soil underneath the craft, suggesting that a creature had been huddled there for some time. 
+
+The door to room 16 is still closed, but the red light above the door has now been replaced by a steady green one. The hum of mechanisms and engines can be felt under the group's feet. 
+
+*With a click of the keyboard, the doorway to the room slides open. Lying prone on the floor is the form of a large bipedal bird. The creature appears unresponsive, face down on the floor. Dark feathers cover its form, creating a glossy appearance as the light from outside reflects within. Two small feathered-wings pertrude where its arms should be, ending in short talons. The creature's face rests agaisnt the ground at an uncomfortable angle. A long crack traces its way from the edge of its beach all the way up to one of its eyes. 
+The creature's clothing appears to be of a simple light-weight cloth, that is covered in damp dirt and what looks like blood.
+One of the creature's two legs is twisted at an off angle. 
+Further back into the room, you spy a series of metal claws holding in place a blue glowing cube. Another arcane accumulator.*
+
