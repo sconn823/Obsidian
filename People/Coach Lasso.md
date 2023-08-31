@@ -1,0 +1,7 @@
+	"if we see each other in our dreams, let's goof around a little bit and pretend we don't know each other"
+	"If that's a joke, I love it. If not, I cannot wait to unpack that with you."
+	"I do believe in ghosts, but more imporantly i think they need to believe in themselves"
+	"I would not bet on that, unless you'd like to win a boat load of money"
+	"Sorry, i have a real tricky time hearing folks that don't believe in themselves, you're gonna have to speak up"
+	"Boy oh boy. If you knew coach beard you'd know that a big deal that was"
+	"boys tell these what my first rule of fight club is - no fight club"
