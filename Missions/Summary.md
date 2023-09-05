@@ -20,6 +20,7 @@ Ultimately the Dureregar are attempting to use an ancient beacon sewn directly i
 
 ## Day 3
 -[[Infilitrate Duergar Compound]]
+-[[Rurik Eversharp]] takes the [[Lead balloon]] to collect the [[Aquanaut]] remains and begin repairs
 
 ## Day 4
 -[[Scarlet Mummors, Silent Runners]]
