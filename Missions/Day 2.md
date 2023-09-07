@@ -88,3 +88,12 @@ Eating amongst them will be other members of the [[Arboral Council]]
 [[Oakroot]] will sit with [[Thror]] and ask him about his experiences fighting the duergar. In addition, he will ask if there any truth to the rumors he heard that the dwarves may wish to destroy [[Vietgnome (forest)]] if they fear the city is lost.
 
 [[Quincy Endrcot]] will attempt to speak to [[Ramiel]] and [[Kalas]] about a sponsorship deal, but only if they agree to play gnome pop, which sounds like hyper pop music. If they are, they will both instantly get 500 gp but have disadvantage on their performance roles until someone casts a "Remove Curse" spell on them. Allies will also have to roll a DC 10 wisdom save when they are given inspirtation it will fail.
+
+[[Queen Regent Krixi Berryguard]] will sit with [[Jor]] and try to hit on him.
+"- I don’t remember casting _Summon Celestial_, but here you are"
+"- _Mage Hand_ gives me 5 extra, magic fingers – if you know what I mean"
+"- Is that a longsword you’re equipped with, or are you just happy to see me?"
+
+## Conclusion
+At the end of the meal, [[Ambassador Rubin Obar]] will ask the players to launch an assault agaisnt the [[Duergar Compound]] on the eastern side of the [[Abhainn River]].
+"with the council now divided in our favor, it is the time to strike. Go there, and find out what you can. We assume the fortress may be heavily guarded, but time is of the essence. At this time, we can lend you little support unless the duergar cross the river, so be cautious and don't fight unless you have to."
