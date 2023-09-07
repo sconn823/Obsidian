@@ -52,3 +52,6 @@ Secretly, beneath the crate of whiskey
 Group is woken up to [[Ambassador Rubin Obar]] waking them up, informing them that the [[Rock Breakers]] Gnome Ball team have suddenly all contracted the plauge and that they desperately need a subsitute team to play
 
 Winner gets the [[Ring of True Companions]]
+
+## Celebration post-game
+Players invited by [[Queen Regent Krixi Berryguard]] to feast 
