@@ -54,4 +54,37 @@ Group is woken up to [[Ambassador Rubin Obar]] waking them up, informing them th
 Winner gets the [[Ring of True Companions]]
 
 ## Celebration post-game
-Players invited by [[Queen Regent Krixi Berryguard]] to feast 
+Players invited by [[Queen Regent Krixi Berryguard]] to feast within the [[Royal Aparmtnet]].
+
+#### Meal
+First course is a salad made from glowing plants. When eating them, the players are given a memory of something they are guilty for "Its a delightful little defense mechanism. I like mine with extra-guilt sauce".
+
+second course is a soup of dwarven make.
+
+Its just a bowl of whiskey
+
+Main course will be a honey-roasted Giant Ape Thorax, with skillets of Flying-monkey kebabs (which still slightly levitate)
+
+Desert is that they let loose a hive of bees coated in their own honey.
+"We used magic to confuse them so they'd overporduce their own honey, and then slowly roasted the hive"
+They cut it open in front of the group
+
+Drinks will include:
+	Dwarven Stout
+	Gnome Gin-and-panic
+	Biosphorian mushroom-wine 
+	a scroll of fireball (which can be stolen with a DC 15 sleight-of-hand check)
+
+#### Attendance
+Eating amongst them will be other members of the [[Arboral Council]]
+
+[[Tobin Rix]] will be telling a very long and boring story about a time he killed several mercanaries wandering through the [[Collapsed Kingdoms]]. He will also ask [[Gerhardt]] what he would do if the [[Duregar Dominion]] begins expanding into that region.
+"You can't expect the Dwarves to help you all the way down there."
+
+[[Valvalur]] will have large Goliath man servants who are delictiely feeding her clippings of herbs and small steaks made from the fat of the roast ape. She will ask the players to show her their feet to verify if they haven't stepped on any smaller creatures. Each character must make a dex check to see how well they've been watching their steps.
+
+[[Boudicca]] will sit next to [[Tyto]] and ask him about himself during the meal. To her, Tyto is unique and represents a kind of freedom she wishes for herself. She will ask him about his travels, and where he sees himself when this is all over.
+
+[[Oakroot]] will sit with [[Thror]] and ask him about his experiences fighting the duergar. In addition, he will ask if there any truth to the rumors he heard that the dwarves may wish to destroy [[Vietgnome (forest)]] if they fear the city is lost.
+
+[[Quincy Endrcot]] will attempt to speak to [[Ramiel]] and [[Kalas]] about a sponsorship deal, but only if they agree to play gnome pop, which sounds like hyper pop music. If they are, they will both instantly get 500 gp but have disadvantage on their performance roles until someone casts a "Remove Curse" spell on them. Allies will also have to roll a DC 10 wisdom save when they are given inspirtation it will fail.
