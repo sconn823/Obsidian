@@ -1,5 +1,5 @@
 ## Setup
-The Dureragar have been excavating this site ever since [[Duregar Emperor]] recieved a message from [[Talos]] stating that something of significance was there. After several weeks of drilling, the Dureragar discovered the remains of the [[B.E.A.C.O.N.]] [[Aquanaut]] beneath the surface of the forest. 
+The Dureragar have been excavating this site ever since [[Empress Nimira]] recieved a message from [[Talos]] stating that something of significance was there. After several weeks of drilling, the Dureragar discovered the remains of the [[B.E.A.C.O.N.]] [[Aquanaut]] beneath the surface of the forest. 
 
 Talos and the emperor conspired to make the suit into an avatar of Talos, by placing captured prisoners into the heart of the marchine, and performing the [[Ritual of Convergence]].
 
