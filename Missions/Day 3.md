@@ -20,4 +20,14 @@ The morning sun projects stining heat onto any metal equipment you are carrying,
 
 
 ## River Passing
-After hours of travel, the group will find themselves heading near a river source when they also meet up with several mercanaries of the [[Scalies]].
+
+### Scalies
+After hours of travel, the group will find themselves heading near a river source when they also meet up with several mercanaries of the [[Scalies]]. The group will mention how they always travel with their masks on, but that's never been a problem to the duergar hosts
+
+### Shallow Bridge
+Shallow bridge was construced by the retreating dwarven undermountains after the [[Second Battle of Vietgnome]] as a show of good faith.
+Any dwarves proficient with stone cutting can notice dwarven runes indicating instructions for a secret tunnel that would take any who wish underneath the bridge. In this instance, it would put them right behind the below described cannon entrechment.
+
+A bridge spans between the eastern and western banks of the river.
+On the west, a contigent of adorable gnome s
+
