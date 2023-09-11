@@ -48,3 +48,12 @@ Coach Lasso
 Coach Beard
 Rod Cent - angry dwarven player
 
+## End of First Session
+Player return to the starting line up.
+Gnome brady takes the field "Go big or go gnome"
+### Broadcaster "Gnome news is good news"
+[[Zoopy Flipplebottom]] narrates along with his cohost [[Fernando Zuccini]]
+Zoopy is an avid silver gnome and will give hints to the players re: Brady's strategy
+Fernando is an amethysit gnome, and exclusively root for [[Gnome Brady]]
+
+Score is 2-1 score
