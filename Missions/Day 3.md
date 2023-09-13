@@ -2,7 +2,8 @@
 ## Evacuating the [[Lead balloon]]
 [[Rurik Eversharp]] will explain that he's taking the lead balloon on recon, and the players will have to move all of their belongings to a nearby inn, the [[Spotted Frog]]
 
-
+## New Mission
+[[Ambassador Rubin Obar]] will ask the Marked Men to head east in order to investigate the mysterious [[Steel Obelisk]] that has risen up seemingly over night. 
 ## Heading through the jungle
 
 Group will leave early in the humid dewey morning. 
@@ -29,5 +30,11 @@ Shallow bridge was construced by the retreating dwarven undermountains after the
 Any dwarves proficient with stone cutting can notice dwarven runes indicating instructions for a secret tunnel that would take any who wish underneath the bridge. In this instance, it would put them right behind the below described cannon entrechment.
 
 A bridge spans between the eastern and western banks of the river.
-On the west, a contigent of adorable gnome s
+The western portion is devoid of guard. Only banners of a green tree upon a green field signify this as Gnomish-territory.
+On the western bank is a squadron of Duergar soldiers.
+Each one is equipped with fine armor and weapons. 
+Their commander, [[Sergeant Admir ThunderFucker]] is a squat duergar with a thick van dyke beard. Gold piercings are prevelant across his face. Eyebrow rings, nose ridge, septem, lip. Where ever he could have a piecring, he has it and a couple more right next to it. Each time the duergar talks, you can hear the clacking of metal agaisnt one another. Often while he speaks, he will have to suck in spittle stuck to items in his mouth.
+
+
+
 
