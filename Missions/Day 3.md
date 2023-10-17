@@ -22,6 +22,8 @@ Traveling through this part of the jungle, heading due east, at first is simple 
 The morning sun projects stining heat onto any metal equipment you are carrying, and cloth material clings 
 
 
+Should the group opt to take a stealth approach, see the [[Steel Obselisk - Stealth]] page
+
 ## River Passing
 
 ### Scalies
@@ -42,7 +44,7 @@ Each floor houses a [[talos assimilated mindflayer]] who are in control of all c
 ## Exterior
 
 ### Stores
-#### Conneissur's Contraptions
+#### [[Tommy Two-Bonds]]
 Selling tech items such as for 500 gp each:
  - [[Orb of confusion]] - one use of the  [confusion spell](http://dnd5e.wikidot.com/spell:confusion)
  - [[Speaker of Motivation]] - megaphone that allows user to cast [Motivational Speech](http://dnd5e.wikidot.com/spell:motivational-speech)
@@ -66,7 +68,7 @@ Loading area for cannon. Pods can be seen here, preparing to send duergar constr
 ## Level 5
 Cannon mounted, pointing towards vietgnome
 
-## Basement, level 1
+## [[Steel - Basement, level 1]]
 Requires authorization.
 Armory of weapons 
 ## Basement, level 2

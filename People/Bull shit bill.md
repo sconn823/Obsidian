@@ -1,1 +1,1 @@
-old divorced minotraur who hangs atat [[two doors tavern]]
+old divorced minotraur who hangs at [[two doors tavern]]
