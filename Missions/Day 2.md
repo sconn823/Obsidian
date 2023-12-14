@@ -81,7 +81,7 @@ Eating amongst them will be other members of the [[Arboral Council]]
 [[Tobin Rix]] will be telling a very long and boring story about a time he killed several mercanaries wandering through the [[Collapsed Kingdoms]]. He will also ask [[Gerhardt]] what he would do if the [[Duregar Dominion]] begins expanding into that region.
 "You can't expect the Dwarves to help you all the way down there."
 
-[[Valvalur]] will have large Goliath man servants who are delictiely feeding her clippings of herbs and small steaks made from the fat of the roast ape. She will ask the players to show her their feet to verify if they haven't stepped on any smaller creatures. Each character must make a dex check to see how well they've been watching their steps.
+[[Viray]] will have large Goliath man servants who are delictiely feeding her clippings of herbs and small steaks made from the fat of the roast ape. She will ask the players to show her their feet to verify if they haven't stepped on any smaller creatures. Each character must make a dex check to see how well they've been watching their steps.
 
 [[Boudicca]] will sit next to [[Tyto]] and ask him about himself during the meal. To her, Tyto is unique and represents a kind of freedom she wishes for herself. She will ask him about his travels, and where he sees himself when this is all over.
 

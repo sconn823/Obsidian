@@ -1,1 +1,0 @@
-A circus made up of a collection of balloons which fly around the world entertaining millions. The bazaar will find itself docked at the Gnomish miltiary branch starting on [[Day 3]]

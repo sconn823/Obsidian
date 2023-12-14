@@ -1,1 +1,0 @@
-ritual to bring [[talos]] into a construct of organic and inorganic material

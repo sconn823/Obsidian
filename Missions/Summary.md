@@ -16,7 +16,7 @@ Ultimately the Dureregar are attempting to use an ancient beacon sewn directly i
 ## Day 2
 -Return and report 
 -[[Attack on Airship]]
--[[GnomeBall]] against [[Brad Tomy]]
+-[[GnomeBall]] against [[Gnome Brady]]
 
 ## Day 3
 -[[Infilitrate Duergar Compound]]
