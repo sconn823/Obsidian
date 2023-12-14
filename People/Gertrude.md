@@ -1,0 +1,1 @@
+Turns into a [[clockwork assassin]] when threatned. 
