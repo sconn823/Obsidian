@@ -119,7 +119,8 @@ The noise of the surrounding area seems to settle for a time. Wind chimes from a
 
 
 # Investigating [[Vinevow Alley]]
-**
+Goal:
+Players will know that at least one of these shops harbored 
 ## Benoboe's Barbershop
 - Dentistry business used as front for the Scarlet Mummors
 - Small side store, housed between a brothel and a drug den
@@ -140,7 +141,7 @@ The noise of the surrounding area seems to settle for a time. Wind chimes from a
 * DC 12 investigation check lets you find one of Kalas when he was in his old group. Its signed.
 
 
-## The Impotent Dragon
+## The Dented Diamonds
 - bar for dwarves in fought in the conflict
 - has memorable, including banners of Tunnel Drakes, antler trophies from defeated druids and other beasts
 
@@ -152,4 +153,12 @@ The noise of the surrounding area seems to settle for a time. Wind chimes from a
 	* Insists to have the players drink a potion of truth telling
 		* will drink a potion himself. It can be noticed on an insight 18 check
 * Other showrunner 
+
+
+
+## Petunia's Pleasures
+Brothel run by a charming half orc woman
+	step sister from shrek
+	Has been running the business with folks from all over the roots.
+	Can make Any kind of requests happen
 
